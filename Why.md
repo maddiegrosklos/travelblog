@@ -1,6 +1,6 @@
 ---
 title: "Why"
-date: 2024-07-31
+description: If you want to know more about my motivations for this blog, youre in the right place.  
 ---
 
 ### If you're here for travel insights and don't want to hear me ramble, skip this page :) 
