@@ -5,7 +5,7 @@ date: July 31, 2024
 
 # Travel insights that literally nobody asked for
 This is my attempt at learning how to use github while also documenting my travel adventures. 
-It might not be petty, but here we go!! 
+It might not be petty, but here we go!! For more details about my motivation to make this site: [Why](./Why.md)
 
 I first traveled to Europe when I was 25. Now I am 26 and have somehow maganed to visit so many amazing places.
 
@@ -19,4 +19,4 @@ I first traveled to Europe when I was 25. Now I am 26 and have somehow maganed t
 
 ### If you want to visit these places, or have plans to, check out the rest of the blog for my thoughts and recommendations on all things!
 
-[London](./london.md).
+[London](./london.md)
