@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my travel blog"
-date: July 31, 2024
+logo: platiawine.jpeg
 ---
 
 # Travel insights that literally nobody asked for
