@@ -19,4 +19,4 @@ I first traveled to Europe when I was 25. Now I am 26 and have somehow maganed t
 
 ### If you want to visit these places, or have plans to, check out the rest of the blog for my thoughts and recommendations on all things!
 
-[Link to another page](./london.md).
+[London](./london.md).
