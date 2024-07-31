@@ -6,7 +6,7 @@ title: Welcome to my travel blog
 This is my attempt at learning how to use github while also documenting my travel adventures. 
 It might not be petty, but here we go!! For more details about my motivation to make this site: [Why](./Why.md)
 
-I first traveled to Europe when I was 25. Now I am 26 and have somehow maganed to visit so many amazing places.
+I first traveled to Europe in June of 2023. Becoming entirely obsessed, I have gone back twice in the span of about a year and am lucky to ahve been to so many incredible places. 
 
 ### If you want to visit these places, or have plans to, click the locations in the table for my thoughts and recommendations on all things!
 
