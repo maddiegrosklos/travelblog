@@ -1,6 +1,5 @@
 ---
 title: "Welcome to my travel blog"
-logo: img/platiawine.JPEG
 ---
 
 # Travel insights that literally nobody asked for
