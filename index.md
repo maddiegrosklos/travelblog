@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my travel blog"
+
 ---
 
 # Travel insights that literally nobody asked for
