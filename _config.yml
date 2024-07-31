@@ -3,5 +3,5 @@ author: Madeline Grosklos
 description: My thoughts and notes on activities, foods, sights, and more from my travels to Europe in 2023 and 2024. 
 show_downloads: false
 google_analytics:
-remote_theme: tuur29/pages-themes-cayman
+theme: jekyll-theme-cayman
 
