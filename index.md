@@ -1,7 +1,6 @@
 ---
 title: Welcome to my travel blog
 ---
-
 # Travel insights that literally nobody asked for
 This is my attempt at learning how to use github while also documenting my travel adventures. 
 It might not be petty, but here we go!! For more details about my motivation to make this site: [Why](./Why.md)
