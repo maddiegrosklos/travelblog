@@ -36,12 +36,4 @@ So, the start to our Nice experience was far from typical, but we loved the rema
 | Speed boat trip | Nissa Croisières was my favorite group to go with, fun energetic tour guides, great way to see the coast line, swim in the beautiful waters, and learn some fun facts |
 
 
-| Where | When |
-| ----------- | ----------- |
-| UK: [London](./locations/london.md), Leicester, York, Newcastle | June 2023 / Feb 2024 |
-| [Greece](./locations/greece_overall.md): [Mykonos](./locations/mykonos.md), Paros, Santorini, Naxos | June 2023 / July 2024 |
-| Prague | June 2023 & July 2024 |
-| Dublin | June 2023 |
-| Barcelona, Vienna, Amsterdam, Copenhagen, [Nice](./locations/SOF.md) | July 2024 |
-
 
