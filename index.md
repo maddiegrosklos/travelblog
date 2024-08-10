@@ -15,4 +15,4 @@ I first traveled to Europe in June of 2023. Becoming entirely obsessed, I have g
 | [Greece](./locations/greece_overall.md): [Mykonos](./locations/mykonos.md), Paros, Santorini, Naxos | June 2023 / July 2024 |
 | Prague | June 2023 & July 2024 |
 | Dublin | June 2023 |
-| Barcelona, Vienna, Amsterdam, Copenhagen, [Nice](./locations/SOF.md) | July 2024 |
+| Barcelona, Vienna, [Amsterdam](./locations/SOF.md), Copenhagen, [Nice](./locations/SOF.md) | July 2024 |
