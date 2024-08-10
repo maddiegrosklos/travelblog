@@ -24,16 +24,17 @@ So, the start to our Nice experience was far from typical, but we loved the rema
 
 | Location | Notes |
 | ----------- | ----------- |
-| Le Plongier, Nice (Dinner) | Bottom left corner of the collage above... not much more to say. Unreal views. Octopus was the best I have ever had. On the more expensive side. |
-| Le Garcon, Villefranche-sur-Mer (Dinner) | Text |
-| La Petite Escale, Antibes (Dinner) | Text |
+| [Le Plongier](https://www.leplongeoir.com/en/home/), Nice (Dinner) | Bottom left corner of the collage above... not much more to say. Unreal views. Octopus was the best I have ever had. On the more expensive side, but worth it. |
+| [Les Garcons](https://www.instagram.com/lesgarconsvillefranche/), Villefranche-sur-Mer (Dinner) | Text |
+| [La Petite Escale](https://www.tripadvisor.com/Restaurant_Review-g187217-d13220201-Reviews-La_Petite_Escale-Antibes_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html), Antibes (Dinner) | Text |
 | Le Cafe Du Port, Nice (Quick Lunch) | Text | 
 
 # Things To Do
 
 | Location | Notes |
 | ----------- | ----------- |
-| Speed boat trip | Nissa Croisières was my favorite group to go with, fun energetic tour guides, great way to see the coast line, swim in the beautiful waters, and learn some fun facts |
+| Speed boat trip | [Nissa Croisières](https://nissacroisieres.com/) was my favorite group to go with, fun energetic tour guides, great way to see the coast line, swim in the beautiful waters, and learn some fun facts |
+
 
 
 
