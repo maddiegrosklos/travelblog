@@ -21,6 +21,7 @@ So, the start to our Nice experience was far from typical, but we loved the rema
 
 ## Top Recommendations 
 # Food
+
 | Location | Notes |
 | ----------- | ----------- |
 | Le Plongier, Nice (Dinner) | Bottom left corner of the collage above... not much more to say. Unreal views. Octopus was the best I have ever had. On the more expensive side. |
@@ -29,6 +30,7 @@ So, the start to our Nice experience was far from typical, but we loved the rema
 | Le Cafe Du Port, Nice (Quick Lunch) | Text | 
 
 # Things To Do
+
 | Location | Notes |
 | ----------- | ----------- |
 | Speed boat trip | Nissa Croisières was my favorite group to go with, fun energetic tour guides, great way to see the coast line, swim in the beautiful waters, and learn some fun facts |
