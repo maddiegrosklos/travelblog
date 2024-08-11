@@ -3,7 +3,7 @@ layout: default
 title: "Nice / South of France"
 description: "Nice is a great small city on the water but an even better place to go for an abundance of day trips"
 ---
-[HOME](./index.md)
+[HOME](/index.md)
 
 ![South of France Photo Collage](/img/SOF.png)
 
@@ -38,5 +38,4 @@ So, the start to our Nice experience was far from typical, but we loved the rema
 
 
 
-
-[HOME](./index.md)
+[HOME](/index.md)
