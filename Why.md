@@ -3,7 +3,6 @@ layout: default
 title: "Why"
 description: If you want to know more about my motivations for this blog, youre in the right place.
 ---
-
 ### If you're here for travel insights and don't want to hear me ramble, skip this page :) 
 
 My initial thought was to make this more of a website vibe - content, links to click, pictures, fin. However, I have too many thoughts to share so I suppose a blog really is more appropriate. 
