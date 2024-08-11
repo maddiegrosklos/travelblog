@@ -3,8 +3,9 @@ layout: default
 title: "Nice / South of France"
 description: "Nice is a great small city on the water but an even better place to go for an abundance of day trips"
 ---
+[HOME](./index.md)
 
-![South of France Photo Collage](./img/SOF.png)
+![South of France Photo Collage](/img/SOF.png)
 
 ## Thoughts
 We absolutely loved the South of France. The night before we arived we realized we were flying in the morning of the FINAL stage of the Tour de France. It is almost embarassing how much of an accident this was - we really had no idea. Safe to say I have become MUCH more interested in cycling since seeing the historic event. Due to the Paris Onlymics, 2024 was the only year (of all 111 !) that the Tour did not end in Paris. The final stage was also a time trial, the first time-trial finale since 1989. The energy was amazing, filled with passion from pariots of all different countries. Aside from a small area at the finish line, the entire route was open for spectators to stand along and we enjoyed views from multiple areas along the final stretch of road. 
@@ -38,3 +39,4 @@ So, the start to our Nice experience was far from typical, but we loved the rema
 
 
 
+[HOME](./index.md)
