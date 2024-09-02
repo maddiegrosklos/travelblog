@@ -5,7 +5,7 @@ description: Copenhagen is wihtout a doubt one of the friendliest places I have 
 ---
 [HOME](index.md)
 
-![Copenhagen Photo Collage](/img/copey.jpg)
+![Copenhagen Photo Collage](/img/copey.png)
 
 
 [HOME](index.md)
