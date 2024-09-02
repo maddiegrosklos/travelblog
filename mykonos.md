@@ -5,7 +5,7 @@ description: This party island is perfect for a quick trip before a longer stay 
 ---
 [HOME](index.md)
 
-![Mykonos Photo Collage](/img/mykonos.jpg)
+![Mykonos Photo Collage](/img/mykonos.png)
 
 
 [HOME](index.md)
