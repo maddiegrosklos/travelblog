@@ -5,7 +5,7 @@ description: As I mention in [Paros](./Paros.md), it is hard to pick a favorite 
 ---
 [HOME](index.md)
 
-![Naxos Photo Collage](/img/naxos.jpg)
+![Naxos Photo Collage](/img/naxos.png)
 
 
 [HOME](index.md)
