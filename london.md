@@ -5,7 +5,7 @@ description: "After visiting London twice, once in the summer and once in the wi
 ---
 [HOME](https://maddiegrosklos.github.io)
 
-![London Photo Collage](/img/london.png)
+![London Photo Collage](/img/londy.png)
 
 ## Thoughts
 I find london to be such a charming city with so much to do. 
