@@ -5,7 +5,7 @@ description: Despite the crowds of tourists, I LOVED Santorini. To me nothing ca
 ---
 [HOME](index.md)
 
-![Santorini Photo Collage](/img/santorini.jpg)
+![Santorini Photo Collage](/img/santorini.png)
 
 
 [HOME](index.md)
