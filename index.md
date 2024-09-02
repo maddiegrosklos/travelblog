@@ -12,8 +12,8 @@ I first traveled to Europe in June of 2023. Becoming entirely obsessed, I have g
 | Where | When |
 | ----------- | ----------- |
 | UK: [London](./london.md), Leicester, York, Newcastle | June 2023 / Feb 2024 |
-| [Greece](./greece_overall.md): [Mykonos](./mykonos.md), Paros, Santorini, Naxos | June 2023 / July 2024 |
-| Prague | June 2023 & July 2024 |
+| [Greece](./greece_overall.md): [Mykonos](./mykonos.md), [Paros](./Paros.md), Santorini, Naxos | June 2023 / July 2024 |
+| [Prague](./prague.md) | June 2023 & July 2024 |
 | Dublin | June 2023 |
 | Barcelona, Vienna, [Amsterdam](./amsterdam.md), Copenhagen, [Nice](./SOF.md) | July 2024 |
 
