@@ -5,7 +5,7 @@ description: My highlights from Vienna included the grand architecture, local he
 ---
 [HOME](index.md)
 
-![Vienna Photo Collage](/img/vienna.jpg)
+![Vienna Photo Collage](/img/vienna.png)
 
 
 [HOME](index.md)
