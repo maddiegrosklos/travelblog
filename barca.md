@@ -5,7 +5,7 @@ description: Barcelona is a giant, vibrant city that I loved for its neighborhoo
 ---
 [HOME](index.md)
 
-![Barcelona Photo Collage](/img/barca.jpg)
+![Barcelona Photo Collage](/img/barca.png)
 
 
 [HOME](index.md)
